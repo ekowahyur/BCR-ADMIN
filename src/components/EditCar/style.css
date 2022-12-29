@@ -1,0 +1,16 @@
+.content {
+    background: #e5e5e5;
+    width: calc(100% - 95px);
+    height: auto;
+    padding: 70px 0 0 0;
+    transition: all 0.3s;
+  }
+  
+  .content .main {
+      position: absolute;
+      left: 25rem;
+      right: 1rem;
+      top: 7rem;
+      /* background-color: black; */
+  }
+  

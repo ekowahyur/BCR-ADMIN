@@ -1,3 +1,16 @@
+## Lists task admin
+
+### Nama : Ade Sugiantoro
+
+* SideBar
+* Navbar
+* Login/Logout
+* Tampilan Dashboard
+* Implement DataTable
+* Implement ChartBar
+* ListCars 
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
